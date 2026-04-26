@@ -48,8 +48,10 @@ An end-to-end workflow that qualifies incoming leads, scores them based on busin
 
 Building freelance-ready automation systems for real businesses.
 
-##  Open to collaboration
+##  Available for freelance automation projects
 
-##  Let's Connect
-* **Freelance Inquiries:** alongdecor@gmail.com
-* **Discord:** alngbalin
+## Let's Connect
+
+- **Freelance Inquiries:** alongdecor@gmail.com  
+- Need lead gen, AI workflows, CRM automation, or internal tools? Let’s talk.  
+- **Discord:** alngbalin

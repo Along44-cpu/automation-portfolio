@@ -1,5 +1,5 @@
 {
-  "name": "Multi-Stage Lead Scoring & Automated Routing System",
+  "name": "lead-scoring-workflow.json",
   "nodes": [
     {
       "parameters": {

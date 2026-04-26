@@ -1,9 +1,13 @@
 #  Hi, I'm Along
 
 I build automation systems that save businesses time using n8n, APIs and AI workflows.
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Database-green)
+![Slack](https://img.shields.io/badge/Slack-Alerts-purple)
+![Gmail](https://img.shields.io/badge/Gmail-Notifications-red)
 
-
-#  Featured Project
+## Featured Client-Ready Automation Project
 
 ## Multi-Stage Lead Scoring & Automated Routing System
 
@@ -46,7 +50,6 @@ Building freelance-ready automation systems for real businesses.
 
 ##  Open to collaboration
 
-## 📫 Let's Connect
+##  Let's Connect
 * **Freelance Inquiries:** alongdecor@gmail.com
-
 * **Discord:** alngbalin

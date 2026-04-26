@@ -44,9 +44,9 @@ An end-to-end workflow that qualifies incoming leads, scores them based on busin
  [View Workflow JSON](https://github.com/Along44-cpu/automation-portfolio/blob/main/Multi-Stage%20Lead%20Scoring%20%26%20Automated%20Routing%20System.json)
  
  ## Proof of Implementation
+ 
+ ![Workflow Screenshot](https://raw.githubusercontent.com/Along44-cpu/automation-portfolio/main/image.png)
 
-![Workflow Screenshot](https://raw.githubusercontent.com/Along44-cpu/automation-portfolio/main/image%20new%202.PNG)
----
 
 ##  Current Focus
 

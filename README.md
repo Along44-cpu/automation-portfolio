@@ -59,3 +59,45 @@ Building freelance-ready automation systems for real businesses.
 - **Freelance Inquiries:** alongdecor@gmail.com  
 - Need lead gen, AI workflows, CRM automation, or internal tools? Let’s talk.  
 - **Discord:** alngbalin
+
+---
+
+## Advanced Lead Intelligence & Automated Nurture System
+
+An intelligent lead management workflow that uses Claude AI to analyze incoming leads, detect returning prospects, score intent and trigger personalized follow-up actions automatically.
+
+### What It Does
+
+- Receives incoming leads via webhook/forms
+- Checks Google Sheets for duplicate or returning leads
+- Uses Claude AI to analyze message quality & buying intent
+- Scores leads from 1–5 priority level
+- Sends VIP leads to Slack instantly
+- Sends personalized Gmail follow-ups for returning hot leads
+- Updates or appends records in Google Sheets automatically
+
+### Tech Stack
+
+- n8n
+- Claude 3.5 Sonnet
+- Google Sheets
+- Gmail
+- Slack
+- Webhooks
+
+### Business Value
+
+- Prevents duplicate lead records
+- Prioritizes high-intent prospects instantly
+- Automates personalized outreach
+- Reduces manual admin work
+- Improves speed-to-lead response
+
+### Workflow File
+
+[View Workflow JSON](./lead-intelligence-workflow.json)
+
+### Proof of Implementation
+
+![Workflow Screenshot](https://raw.githubusercontent.com/Along44-cpu/automation-portfolio/main/image2.png)
+

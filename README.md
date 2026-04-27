@@ -98,4 +98,4 @@ An intelligent lead management workflow that uses Claude AI to analyze incoming 
 [View Workflow JSON](./Advanced%20Lead%20Intelligence%20%26%20Nurture.json)
 
 ## Proof of Implementation
-
+![Workflow Screenshot](./image%20(5).png)

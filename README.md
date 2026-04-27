@@ -99,4 +99,3 @@ An intelligent lead management workflow that uses Claude AI to analyze incoming 
 
 ## Proof of Implementation
 
-![Workflow Screenshot](./advanced-lead-intelligence.png)

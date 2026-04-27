@@ -93,11 +93,10 @@ An intelligent lead management workflow that uses Claude AI to analyze incoming 
 - Reduces manual admin work
 - Improves speed-to-lead response
 
-### Workflow File
+## Workflow File
 
-[View Workflow JSON](./lead-intelligence-workflow.json)
+[View Workflow JSON](./Advanced%20Lead%20Intelligence%20%26%20Nurture.json)
 
-### Proof of Implementation
+## Proof of Implementation
 
-![Workflow Screenshot](https://raw.githubusercontent.com/Along44-cpu/automation-portfolio/main/image2.png)
-
+![Workflow Screenshot](./advanced-lead-intelligence.png)
